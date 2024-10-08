@@ -26,7 +26,7 @@ pip install -r requirements.txt# Credit-Card-Fraud-Prediction
 
 1. Clone this repository:
    bash
-   git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
+   git clone https://github.com/Jeevitha926/Credit-Card-Fraud-Detection.git
    cd Credit-Card-Fraud-Detection
    
 
@@ -43,4 +43,7 @@ pip install -r requirements.txt# Credit-Card-Fraud-Prediction
 4. Evaluate the model:
    bash
    python src/evaluate_model.py
+
+## Dataset Information
+The dataset used for this project is included in the repository. You can find it in the data directory.
    
